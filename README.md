@@ -61,3 +61,15 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web: Setup Larave
   - `web.php`: Berisi pendaftaran endpoint/URL yang diakses melalui browser.
 - **`storage/`**: Tempat menyimpan file log, cache, dan unggahan berkas (uploads).
 - **`vendor/`**: Berisi paket/dependency Pihak Ke-3 yang diinstall melalui Composer.
+
+## 📸 Hasil Screenshot (SS)
+
+Berikut adalah tampilan dari hasil project yang telah dijalankan:
+
+## 1. Tampilan Default Laravel
+![Tampilan Default](./screenshoot%20welcome%20page/welcomepage-laravel.png)
+*Keterangan: Tampilan default welcome page dari Laravel*
+
+## 2. Tampilan Halaman Web Custom
+![Tampilan Buatan Sendiri](./screenshoot%20welcome%20page/welcomepage-buatan-sendiri.png)
+*Keterangan: Tampilan welcome page buatan sendiri*
